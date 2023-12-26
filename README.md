@@ -1,5 +1,5 @@
 # social-shell
-A binary to chat with your unix shells on IRC.<br>
+A binary to chat with your unix shells on IRC, a binary to utilize IRC software as C2.<br>
 Orignally made by [Aalekh Motani](https://github.com/aalekh-ul).<br>
 
 **Usage:**<br>
@@ -13,4 +13,6 @@ To get the help menu: <code> ./ircshell -h </code>.<br>
 **License**
 **GPLv3+:** GNU GPL version 3 or later https://gnu.org/licenses/gpl.html
 
-This is free software: you are free to change and redistribute it.
+This is free software: you are free to change and redistribute it.<br>
+
+
