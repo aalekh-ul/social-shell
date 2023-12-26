@@ -55,7 +55,7 @@ def main():
             result = re.search(r'cmd ["\'](.*?)["\']', data)
             if result:
                 cmd_text = result.group(1)
-                print(cmd_text)
+                #print(cmd_text)
                 if cmd_text.lower() == 'quit':
                     break
                 else:
