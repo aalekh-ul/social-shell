@@ -16,13 +16,18 @@ To get the help menu: <code> ./ircshell -h </code>.<br>
 ![image](https://github.com/aalekh-ul/social-shell/assets/57952558/3be43c0d-a317-4a1e-bd75-9a746bf7f6d3)<br>
 <br>
 <br>
-**Step2**: run the binary on target.<br>
+**Step2**: Run the binary on target.<br>
 ![image](https://github.com/aalekh-ul/social-shell/assets/57952558/96511953-5991-4b36-81f8-8e569e968fa2)<br>
 <br>
 <br>
-**Step3**: run the unix command you like from the chat.<r>
+**Step3**: Run the unix command you like from the chat.<r>
 ![image](https://github.com/aalekh-ul/social-shell/assets/57952558/6b716d35-b4cd-488f-b2e4-b7bb931f105f)<br>
-![image](https://github.com/aalekh-ul/social-shell/assets/57952558/9de24fbb-b4a2-44ed-a34d-f40fcae05063)
+![image](https://github.com/aalekh-ul/social-shell/assets/57952558/9de24fbb-b4a2-44ed-a34d-f40fcae05063)<br>
+<br>
+<br>
+
+
+**Run the binary on different clients and get them all at one channel to Command and Control them**.<br>
 
 
 
